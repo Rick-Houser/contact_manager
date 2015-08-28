@@ -24,7 +24,7 @@ RSpec.describe PeopleController, type: :controller do
   # Person. As you add validations to Person, be sure to
   # adjust the attributes here as well.
   let(:valid_attributes) {
-    skip("Add a hash of attributes valid for your model")
+    { first_name: 'Leslie', last_name: 'Knope' }
   }
 
   let(:invalid_attributes) {
