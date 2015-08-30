@@ -1,4 +1,4 @@
-### JumpstartLab Contact Manager
+### JumpstartLabs Contact Manager
 
 A TDD-driven contact management application.
 
